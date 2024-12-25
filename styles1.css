@@ -1,0 +1,34 @@
+
+body {
+   
+    background-color: #f4f4f4;
+    color: #060505;
+    line-height: 1.6;
+   
+}
+
+
+header {
+    background-color: #4c9a45;
+    color: #fff;
+    padding: 20px ;
+    text-align: center;
+}
+
+
+
+.container {
+    width: 80%;
+    text-align: center;
+    margin-left: 150px;
+    margin-top: 50px;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.container p {
+    margin-bottom: 15px;
+    font-size: 1.1em;
+    text-align: justify;
+}

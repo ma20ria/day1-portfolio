@@ -1,0 +1,27 @@
+.name
+{
+    color: red;
+}
+button
+{
+    background-color: aquamarine;
+    padding: 50px;
+    cursor: pointer;
+    border: none;
+    margin: 20px;
+    transition: 2s;
+}
+button:hover
+{
+    background-color:aqua;
+}
+.box
+{
+    border:  1px solid black;
+    display: flex;
+    height:100vh;
+    justify-content: center;
+    align-items:center ;
+    background-color: lightcoral;
+    color: aquamarine;
+}

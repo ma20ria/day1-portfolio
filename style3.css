@@ -1,0 +1,90 @@
+
+
+
+body {
+   
+    background-color: #f9f9f9;
+    color: #000000;
+    padding: 30px;
+    text-align: center;
+}
+
+
+.container {
+    max-width: 1000px;
+    margin-left: 190px;
+    padding: 20px;
+}
+
+
+
+header {
+    background-color: #4CAF50;
+    color: #fff;
+    padding: 40px 20px;
+}
+h1 {
+    font-size: 2.5em;
+    color: #ffffff;
+    text-transform: uppercase;
+}
+
+
+.contact-details {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    text-align: left;
+}
+
+h2 {
+    font-size: 1.2em;
+    margin-bottom: 10px;
+    color: #555;
+}
+
+.social-links {
+    display: flex;
+    gap: 15px;
+    margin-bottom: 20px;
+    justify-content: center;
+}
+
+.social-icon {
+    text-decoration: none;
+    background-color: #3a8f4c;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 25px;
+    font-weight: bold;
+    text-transform: uppercase;
+    transition: background-color 0.3s ease;
+}
+
+.social-icon:hover {
+    background-color: #15462c;
+}
+
+.social-icon:active {
+    transform: translateY(2px);
+}
+
+.map iframe {
+    width: 100%;
+    max-width: 600px;
+    height: 300px;
+    border: 0;
+    margin-bottom: 20px;
+    border-radius: 8px;
+}
+
+/* Hyperlink Styling */
+a {
+    color: #0077b5;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
